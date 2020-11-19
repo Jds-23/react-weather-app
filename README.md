@@ -1,3 +1,7 @@
+Packages Installed--
+Rsuite- https://www.npmjs.com/package/rsuite
+Axios- https://www.npmjs.com/package/axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
