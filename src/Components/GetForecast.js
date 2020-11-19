@@ -20,6 +20,7 @@ const GetForecast=()=> {
     useEffect(()=>
         {
             setWeatherCurrentLocation();
+            // eslint-disable-next-line
         },[]
     );
 
