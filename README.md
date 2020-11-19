@@ -1,4 +1,4 @@
-Packages Installed--
+Packages Used--
 Rsuite- https://www.npmjs.com/package/rsuite
 Axios- https://www.npmjs.com/package/axios
 
